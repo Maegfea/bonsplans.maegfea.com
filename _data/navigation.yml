@@ -1,10 +1,10 @@
 main:
   - title: "Posts"
-    url: /posts/
+    url: https://www.maegfea.com/posts/
   - title: "Categories"
-    url: /categories/
+    url: https://www.maegfea.com/categories/
   - title: "Tags"
-    url: /tags/
+    url: https://www.maegfea.com/tags/
   - title: "Bons Plans"
     url: https://bonsplans.maegfea.com/
   #- title: "About"
