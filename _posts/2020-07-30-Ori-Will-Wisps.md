@@ -6,7 +6,9 @@ categories: Technologie
 permalink: /Ori-Will-Wisps/
 ---
 Aujourd'hui promo sympa pour un jeu encore plus sympa.
+
 Ori and the Will of the Wisps
+
 ![image ori will and the will of the wisps](/assets/images/oriwillandthewisp.jpg)
 Il s'agit de la version Xbox One à trouver sur Amazon :
 
